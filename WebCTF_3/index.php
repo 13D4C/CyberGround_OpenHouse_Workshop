@@ -32,6 +32,7 @@ require_once 'includes.php';
     <script src="./assets/scripts/script.js"></script>
     <!-- Custom Styles -->
     <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="./assets/css/fonts.css">
 </head>
 
 <body>
